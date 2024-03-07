@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Directory listing for /</title>
+</head>
+<body>
+<h1>Directory listing for /</h1>
+<hr>
+<ul>
+<li><a href="config/">config/</a></li>
+<li><a href="desktop.ini">desktop.ini</a></li>
+<li><a href="My%20Music/">My Music/</a></li>
+<li><a href="My%20Pictures/">My Pictures/</a></li>
+<li><a href="My%20Videos/">My Videos/</a></li>
+<li><a href="pictures/">pictures/</a></li>
+<li><a href="reports/">reports/</a></li>
+</ul>
+<hr>
+</body>
+</html>

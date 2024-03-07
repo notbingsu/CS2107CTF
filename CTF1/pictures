@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Directory listing for /pictures/</title>
+</head>
+<body>
+<h1>Directory listing for /pictures/</h1>
+<hr>
+<ul>
+<li><a href="dragon.png">dragon.png</a></li>
+<li><a href="hackbash.jpg">hackbash.jpg</a></li>
+<li><a href="wallpaper.png">wallpaper.png</a></li>
+</ul>
+<hr>
+</body>
+</html>
