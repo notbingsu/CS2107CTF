@@ -7,7 +7,8 @@ Lu Bingyuan Axxxx353X
 ### E1 can_you_gdb 10 points
 
 Using GDB, the binary was disassembled. In the main function, a comparison was done iteratively with the input string and the flag string. By setting a breakpoint at the comparison, the flag was obtained segment by segment by examining the register.
-The first segment can be seen from [here](CTF2\1Easy\e1_can_you_gdb_\flagcmp.jpg).
+The first segment can be seen from this screenshot.
+![flag cmp image](/CTF2/1Easy/e1_can_you_gdb_/flagcmp.jpg).
 After concatenating the segments, the flag obtained was: `CS2107{y4y_y0u_c4n_us3_4_d3bugger!GDB_my_best13}`
 
 ### E2 keylogger 10 points
